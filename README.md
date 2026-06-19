@@ -257,23 +257,3 @@ npm run build
 ```
 This will compile TypeScript to JavaScript, typically in a `dist` or `build` folder within the `backend` directory. You can then run the compiled code using `node dist/server.js` (or similar).
 
-## Contributing 🤝
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature-name`).
-3.  Make your changes and commit them (`git commit -m 'Add some feature'`).
-4.  Push to the branch (`git push origin feature/your-feature-name`).
-5.  Open a Pull Request.
-
-Please ensure your code adheres to the existing style and that any new features are well-tested.
-
-## License 📄
-This project is licensed under the MIT License. See the `LICENSE` file for details (if one is created, otherwise assume MIT).
-
-## Contact 📧
-For questions or support, please reach out to [sushilpatel5113@gmail.com](mailto:sushilpatel5113@gmail.com).
-
----
-
-Made with ❤️ by @sushil930.
